@@ -1,6 +1,7 @@
 # hello-world
-<p>Hello World repository for Git learning.</p>
-<p>This is an example of git repository.</p>
+Hello World repository for Git learning.
+This is an example of git repository.
+This repository is built step by step in vscode using the guidelines from w3schools.
 
-
-<p>This repository is built step by step in vscode using the guidelines from w3schools.</p>
+And now I am editing the readme page from github.
+This is fast but I do not know for sure how much have I actually learned from the entire exercise on an internet website.
