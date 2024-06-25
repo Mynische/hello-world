@@ -7,3 +7,4 @@ And now I am editing the readme page from github.
 This is fast but I do not know for sure how much have I actually learned from the entire exercise on an internet website.
 
 I am trying to learn whereI landed on my face the last time around, PULL function.
+I'm learning how to toy with the branches in git-hub too.
